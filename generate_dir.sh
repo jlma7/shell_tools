@@ -1,5 +1,5 @@
 #!/bin/bash
-# while_read_bottm(){
+# while_read_bottom(){
 #     awk '{print $0}' $1 >> $2
 # }
 # 前端还是后台，默认是后台:1，其他输入项都是前端
