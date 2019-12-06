@@ -1,2 +1,3 @@
-# generate_dir
-generate_dir shell
+# shell tools
+## generate_dir 
+## split_file
